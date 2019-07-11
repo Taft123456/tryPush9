@@ -1,7 +1,7 @@
 /* Author: whe024
  * Partner(s) Name: Wentao He
  * Lab Section: A21
- * Assignment: Lab #10  Exercise #1
+ * Assignment: Lab #10  Exercise #2
  * Exercise Description: [optional - include for your own benefit]
  *
  * I acknowledge all content contained herein, excluding template or example
